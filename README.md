@@ -8,15 +8,13 @@ Loging form with working button links to
 <br>__Sign up ⮞ Login ⮞ Forgot__ Password.
 <br>Website was created to learn basic form creation.
 
-Design: https://bit.ly/34jO6w4
-
 Site published at: https://mantodinas.github.io/Mountains-Sign-Up/
 
 Created by Mantas Petrauskas 
 <br>more projects https://github.com/mantodinas
 
-![screenshot1](./img/web-screenshot1.jpg)
+![screenshot1](./img/web-screenshot1.webp)
 
-![screenshot1](./img/web-screenshot2.jpg)
+![screenshot1](./img/web-screenshot2.webp)
 
-![screenshot1](./img/web-screenshot3.jpg)
+![screenshot1](./img/web-screenshot3.webp)
